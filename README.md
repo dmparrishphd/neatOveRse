@@ -18,7 +18,9 @@ where `PATH` is the path to the downloaded, compressed, package source and `LIB`
 
 ## Notes
 
-I almost never use `curry` directly, but rather through the _special binary operators_ (hence SBOP) `%<=%`, etc.
+- The tarballs (.tar.gz files) are R package tarballs. The R code posted here for easy browsing (and copying if you like) are copies of the R code therein.
+
+- I almost never use `curry` directly, but rather through the _special binary operators_ (hence SBOP) `%<=%`, etc.
 
 ## Known Issues
 
