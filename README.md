@@ -18,7 +18,13 @@ where `PATH` is the path to the downloaded, compressed, package source and `LIB`
 
 ## Notes
 
-- The tarballs (.tar.gz files) are R package tarballs. The R code posted here for easy browsing (and copying if you like) are copies of the R code therein.
+- The tarballs (.tar.gz files) are R package tarballs. The R code posted here for easy browsing are copies of the R code therein.
+
+### Naming scheme
+
+R source files contain the following elements: the prefix `neato` followed by a four-digit, big-endian hex code, followed by words that describe file content. The hex code may be interpreted as a [two's complement signed integer](https://en.wikipedia.org/wiki/Two's_complement) (`FFFF` --> -1, `0000` --> 0, `0001` --> 1). Code in a file with a certain hex code number depends upon code located in one or more of the files having a lower hex code number. For example, a file with a `0000` code depends on another file with an `FFFF` code.
+
+### curry
 
 - I almost never use `curry` directly, but rather through the _special binary operators_ (hence SBOP) `%<=%`, etc.
 
