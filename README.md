@@ -4,7 +4,7 @@ Simple. GIS. Tools.
 
 ## Why Are there Two Licence / License Files?
 
-They curry function is licensed under LICENCE (with a C). All other content (as of 2019-10-18) under LICENSE (with and S).
+They `curry` function is licensed under LICENCE (with a C). All other content (as of 2019-10-18) under LICENSE (with and S).
 
 ## Example Installation
 
