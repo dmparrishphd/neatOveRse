@@ -43,7 +43,7 @@ THERE IS NO INTENTION OF CARRYING UNDOCUMENTED FEATURES (E.G., USEFUL BUGS) INTO
 
 ### Branching Versions
 
-A branch is indicated with a letter or letters. For example, Version `0A.0-0` would be a branch of version `0.0-0`. A branch of a branch might be indicated as, for example, version `0BUSHclintonBUSH.0-0` might be a brangh of `0BUSHclinton.0-0` (alternating case allows for multi-character branch names to be distinguished).
+A branch is indicated with a letter or letters. For example, Version `0A.0-0` would be a branch of version `0.0-0`. A branch of a branch might be indicated as, for example, version `0BUSHclintonBUSH.0-0` might be a branch of `0BUSHclinton.0-0` (alternating case allows for multi-character branch names to be distinguished).
 
 ### curry
 
