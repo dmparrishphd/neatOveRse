@@ -4,7 +4,7 @@ Simple. GIS. Tools.
 
 ## Brief Contents
 - LICENCE (with a C): the `curry` function is licensed thereunder.
-- LICENSE (with and S): as of 2019-10-18, all content not licensed under LICENCE (with a C) is licensed under LICENSE (with an S).
+- LICENSE (with an S): as of 2019-10-18, all content not licensed under LICENCE (with a C) is licensed under LICENSE (with an S).
 - tarballs (.tar.gz files): R package tarballs
 - R code (.R files): copies of the R code found in the tarballs, repeated for easy browsing.
 - Issues previously mentioned in this README have been moved to the Issues tracker.
