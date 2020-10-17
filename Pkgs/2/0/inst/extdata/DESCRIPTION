@@ -1,0 +1,11 @@
+Package: neatoLcurrySBOP
+Type: Package
+Title: Special Binary Operators for Currying
+Version: 0.0-0
+Date: 2020-10-17
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Depends: neatoCurry
+Description: Defines two special binary operators that accomplish currying.
+License: GPL-2
+Encoding: UTF-8
