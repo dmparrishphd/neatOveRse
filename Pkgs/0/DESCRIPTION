@@ -1,0 +1,11 @@
+Package: neatoCurry
+Type: Package
+Title: Facilitates Currying
+Version: 0.1-0
+Date: 2020-10-17
+Author: D. Michael Parrish [aut], Aaron McDaid [ctb]
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Defines curry function
+    See Also https://en.wikipedia.org/wiki/Currying
+License: file LICENCE
+Encoding: UTF-8

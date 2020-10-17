@@ -1,0 +1,23 @@
+`curry` has been adapted from `Curry` (https://stackoverflow.
+com/questions/2228544/higher-level-functions-in-r-is-there-an-
+official-compose-operator-or-curry-fun/26129498), attributed to
+Aaron McDaid (accessed 2017-10), Copyright 2014(--?) Stack
+Overflow, and is licensed and distributable under the terms of
+the Creative Commons Attribution-ShareAlike 4.0 International
+license (CC-BY-SA 4.0). The license (https://creativecommons.
+org/licenses/by-sa/4.0/legalcode) includes a disclaimer of
+warranties.
+
+As presented herein, `curry` has modified from Curry as follows
+
+        #1) changed = to <- ,
+
+        #2) revised comments per result of inspection / tests,
+
+        #3) changed the name of the function to lower case, and
+
+        #4) changed style of grouping symbols to a LISP-like
+        style (see SICP).
+
+The preceeding numbering scheme refers to the items so numbered
+in the code comments.
