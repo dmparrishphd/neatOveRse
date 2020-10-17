@@ -1,0 +1,11 @@
+Package: neatoLcurry
+Type: Package
+Title: Facilitates Currying
+Version: 0.0-0
+Date: 2020-10-17
+Author: D. Michael Parrish [aut]
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Defines lcurry function
+    See Also https://en.wikipedia.org/wiki/Currying
+License: GPL (>= 2)
+Encoding: UTF-8
