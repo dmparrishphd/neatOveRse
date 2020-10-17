@@ -1,0 +1,10 @@
+Package: neatoPipeSBOP
+Type: Package
+Title: Special Binary Operators for Function Application
+Version: 0.1-0
+Date: 2020-10-17
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Defines four special binary operators that accomplish function application.
+License: GPL-2
+Encoding: UTF-8
