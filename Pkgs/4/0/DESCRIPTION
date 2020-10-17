@@ -1,0 +1,11 @@
+Package: neatoArgswap
+Type: Package
+Title: Argswap
+Version: 0.0-0
+Date: 2020-10-17
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Argswap defines a function for creating a modified
+    copy of a function where the first two arguments reversed.
+License: GPL-2
+Encoding: UTF-8
