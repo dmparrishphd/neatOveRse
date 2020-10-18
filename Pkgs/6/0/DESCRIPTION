@@ -1,0 +1,10 @@
+Package: neatoComposeSBOP
+Type: Package
+Title: Special Binary Operators for Function Composition
+Version: 1.0-0
+Date: 2020-10-17
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Defines two special binary operators that accomplish function composition
+License: GPL-2
+Encoding: UTF-8
