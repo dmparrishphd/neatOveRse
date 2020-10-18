@@ -11,7 +11,8 @@ Simple. GIS. Tools.
 
 [Issues](https://github.com/dmparrishphd/neatOveRse/issues) previously mentioned in this README have been moved to the Issues tracker.
 
-[Open Packages](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/2/0/indexOpenPkgs.md)
+Open Packages [Index](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/2/0/indexOpenPkgs.md)
+[List](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/2/0/listOpenPkg.md)
 
 [Package Tarballs](https://github.com/dmparrishphd/neatOveRse/tree/master/Files/1/0)
 
