@@ -7,7 +7,10 @@ Simple. GIS. Tools.
 ## Table of Contents
 [LICENSES](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/0/LICENSES.md)
 
-[Installing from Tarballs](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/1/0/INSTALL.md)
+Installing
+[Tarballs](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/1/0/INSTALL.md)
+or
+[Open Packages](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/2/0/INSTALL.OPEN.md)
 
 [Issues](https://github.com/dmparrishphd/neatOveRse/issues) previously mentioned in this README have been moved to the Issues tracker.
 
