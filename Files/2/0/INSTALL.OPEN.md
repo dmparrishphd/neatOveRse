@@ -1,6 +1,6 @@
 # Installing from Open-Packages
 
-You should be able to use something a lot like the following to install and attach the packages.
+You should be able to use something a lot like the following to install and attach the open packages.
 The order of installation should respect imports and depends
 (see the DESCRIPTION and NAMESPACE files of the package[s] in question).
 
