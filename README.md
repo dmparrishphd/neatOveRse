@@ -1,8 +1,6 @@
 # neatOveRse
 
-Simple. GIS. Tools.
-
-[More](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/1/0/neatOveRse.md)
+Simple. GIS. Tools. [More](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/1/0/neatOveRse.md).
 
 ## Table of Contents
 [LICENSES](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/0/LICENSES.md)
