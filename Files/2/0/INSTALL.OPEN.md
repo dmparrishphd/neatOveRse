@@ -11,7 +11,7 @@ You should be able to use something a lot like [00-six.R](https://github.com/dmp
 to build environments with `source` and to `attach` those environments,
 using a process like
 [build.env.R](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/2/0/build.env.R)
-(see also the example
+(see the example
 [build.env.un-six.R](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/2/0/build.env.un-six.R))
 
 The order of installation you specify should respect the _imports_ and _depends_
