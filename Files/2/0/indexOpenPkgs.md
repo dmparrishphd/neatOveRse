@@ -9,7 +9,7 @@ argument-passing, chain, pipe, piping, \|, `%|%`:
 [neatoPipeSBOP 0.1-0](https://github.com/dmparrishphd/neatOveRse/tree/master/Pkgs/3/0)
 
 compose, function composition, `%O%`, `%:O%`:
-[neatoComposeSBOP](https://github.com/dmparrishphd/neatOveRse/tree/master/Pkgs/6/0)
+[neatoComposeSBOP 1.0-0](https://github.com/dmparrishphd/neatOveRse/tree/master/Pkgs/6/0)
 
 curry, currying:
 [neatoCurry 0.1-0](https://github.com/dmparrishphd/neatOveRse/tree/master/Pkgs/0);
