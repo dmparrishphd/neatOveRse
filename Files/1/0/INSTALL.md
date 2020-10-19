@@ -4,7 +4,7 @@ Package tarballs are
 [here](https://github.com/dmparrishphd/neatOveRse/tree/master/Files/1/0).
 
 Suggestion: **Don't use them.**
-[Why not?](https://github.com/dmparrishphd/tRivia/blob/master/Files/3/0/protopackages.md)
+[(Why not?)](https://github.com/dmparrishphd/tRivia/blob/master/Files/3/0/protopackages.md)
 Use the
 [open packages](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/2/0/INSTALL.OPEN.md)
 instead.
