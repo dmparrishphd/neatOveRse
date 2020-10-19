@@ -1,4 +1,9 @@
-# Installing the R Packages
+# Installing the R Package Tarballs
+
+Package tarballs are
+[here](https://github.com/dmparrishphd/neatOveRse/tree/master/Files/1/0).
+
+Suggestion: Don't use them. [Why not?](https://github.com/dmparrishphd/tRivia/blob/master/Files/3/0/protopackages.md)
 
 ## Example Installation
 
@@ -14,5 +19,5 @@ where `PATH` is the path to the downloaded, compressed, package source and `LIB`
 
 ## Example "library" Call
 
-    library(package="neatoCurrySBOP", lib=LIB, character.only=T)
-
+    library(package="neatoCurry", lib=LIB, character.only=T)
+    
