@@ -15,3 +15,16 @@ to build and attach:
 
 3. an environment containing some of the functions defined by the
 [neatOveRse repository](https://github.com/dmparrishphd/neatOveRse).
+
+## Usage
+
+    #USAGE OF 3/0/boot.example.R
+    
+    (function(mirrors="/usr/local/share/mirrors/") {
+        # mirrors IS WHEREVER YOU ARE STORING COPIES OF THE FILES
+        # (WITH THEIR PATHS) AS EXPECTED BY boot.example.R,
+        # **** INCLUDING **** THE TRAILING PATH SEPARATOR (e.g., "/").
+        source(paste0(mirrors, "GitHub/dmparrishphd/neatOveRse/",
+            "Files/3/0/boot.example.R"))[[1]](mirrors)
+     })("/usr/local/share/mirrors/")
+     
