@@ -17,6 +17,9 @@ and
 [List](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/2/0/listOpenPkg.md)
 of Open Packages
 
+[Index](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/4/0/indexSymbols.md)
+of free functions
+
 [R code](https://github.com/dmparrishphd/neatOveRse/tree/master/Files/0) (.R files):
 copies of the R code found in the
 [tarballs](https://github.com/dmparrishphd/neatOveRse/tree/master/Files/1/0),
