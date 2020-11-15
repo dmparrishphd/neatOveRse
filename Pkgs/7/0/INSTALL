@@ -1,0 +1,29 @@
+Installation
+
+    1.  Copy the contents here and hereunder to a directory of
+        your choosing.
+
+        a. Suggestion: create a directory dedicated to this package.
+
+Usage
+
+    `source` the "R/type5.R" file, taking the first element of
+    the return (which is a function), and call it with the
+    directory used in the Installation step.
+
+    Example 1:
+
+            See ./inst/extdata/_EXAMPLE.R
+
+    Example 2:
+
+            # SUPPOSING THAT THE DIRECTORY OF THE Installation
+            # STEP IS "~/Mirrors/GitHub/dmparrishphd/neatOveRse/Pkgs/7/0/"
+
+            PolygonShapefileInterface <- (function() {
+                PATH <- "~/Mirrors/GitHub/dmparrishphd/neatOveRse/Pkgs/7/0/"
+                source(paste0(PATH, "R/type5.R"))[[1]](PATH)
+            })()
+
+            # THEN AN OBJECT FOR INTERACTING WITH POLYGON
+            # SHAPEFILES IS ASSIGNED TO THE NAME PolygonShapefileInterface
