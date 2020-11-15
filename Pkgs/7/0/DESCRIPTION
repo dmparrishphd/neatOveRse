@@ -1,0 +1,11 @@
+Package: shapefiles
+Type: Package
+Title: Load (parts of) Polygon Shapefiles
+Version: 0.0-0
+Date: 2020-11-14
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Defines an object that can be used to load the
+        points and other structures found in a polygon shapefile.
+License: GPL-2
+Encoding: UTF-8

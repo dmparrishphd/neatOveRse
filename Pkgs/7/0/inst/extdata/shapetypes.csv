@@ -1,0 +1,15 @@
+"Value","Shape.Type"
+00,Null Shape
+01,Point
+03,PolyLine
+05,Polygon
+08,MultiPoint
+11,PointZ
+13,PolyLineZ
+15,PolygonZ
+18,MultiPointZ
+21,PointM
+23,PolyLineM
+25,PolygonM
+28,MultiPointM
+31,MultiPatch
