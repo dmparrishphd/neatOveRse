@@ -25,6 +25,6 @@ to build and attach:
         # (WITH THEIR PATHS) AS EXPECTED BY boot.example.R,
         # **** INCLUDING **** THE TRAILING PATH SEPARATOR (e.g., "/").
         source(paste0(mirrors, "GitHub/dmparrishphd/neatOveRse/",
-            "Files/3/0/boot.example.R"))[[1]](mirrors)
+            "Files/5/0/boot.example.R"))[[1]](mirrors)
      })("/usr/local/share/mirrors/")
      
