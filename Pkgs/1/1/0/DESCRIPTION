@@ -1,0 +1,12 @@
+Package: neatoLcurry2SBOP
+Type: Package
+Title: Special Binary Operators for Currying Second Argument
+Version: 0.0-0
+Date: 2020-12-13
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Depends: neatoLcurrySBOP, neatoPipeSBOP, neatoArgswap
+Description: Defines two special binary operators that accomplish
+    currying of the second argument of a function.
+License: GPL-2
+Encoding: UTF-8
