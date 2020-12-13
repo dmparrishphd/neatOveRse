@@ -18,7 +18,7 @@ to build and attach:
 
 ## Usage
 
-    #USAGE OF 3/0/boot.example.R
+    #USAGE OF 5/0/boot.example.R
     
     (function(mirrors="/usr/local/share/mirrors/") {
         # mirrors IS WHEREVER YOU ARE STORING COPIES OF THE FILES
