@@ -1,4 +1,5 @@
-
+Index of Free Functions
+=======================
 
 [`%,%` (c, combine)](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/4/0/PC.CM.PC.R)
 
@@ -13,3 +14,4 @@
 maxdiff.m
 \[[R](../../5/0/maxdiff.m.R)\]
 \[[doc](../../5/0/maxdiff.m.md)\]
+An omnidirectional `diff` for matrices.
