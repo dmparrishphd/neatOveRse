@@ -9,3 +9,7 @@
 [build.env](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/4/0/build.env.md)
 
 [bounding.box.xy](../../5/0/bounding.box.xy.R)
+
+maxdiff.m
+\[[R](../../5/0/maxdiff.m.R)\]
+\[[doc](../../5/0/maxdiff.m.md)\]
