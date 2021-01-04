@@ -15,3 +15,13 @@
 [6](../../../Pkgs/6/0) neatoComposeSBOP
 
 [7](../../../Pkgs/7/0) shapefiles
+
+[11](../../../Pkgs/1/1/0)
+neatoLcurry2SBOP.
+_Special Binary Operators for Currying Second Argument.
+Defines two special binary operators that accomplish currying of the second argument of a function._
+
+[12](../../../Pkgs/1/2/0)
+dbf.
+_Load (parts of) dbf Files.
+Defines an object that can be used to load dbf metadata and records._
