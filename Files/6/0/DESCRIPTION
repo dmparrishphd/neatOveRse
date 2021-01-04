@@ -1,0 +1,11 @@
+Package: dbf
+Type: Package
+Title: Load (parts of) dbf Files
+Version: 0.0-0
+Date: 2021-01-04
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Defines an object that can be used to load dbf
+        metadata and records.
+License: GPL-2
+Encoding: UTF-8
