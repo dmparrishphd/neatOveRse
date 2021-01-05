@@ -160,7 +160,7 @@ DBF.PROTO <- list(
 			)
 		)
 		. },
-	loadRecords=function(., i) {
+	loadSequentialRecords=function(., i) {
 		. <- .$readRawSequentialRecords(., i)
 		. <- .$parseRawRecords(.)
 		. <- .$translateRecords(.)
