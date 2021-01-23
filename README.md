@@ -6,6 +6,8 @@ Simple. GIS. Tools. [More](https://github.com/dmparrishphd/neatOveRse/blob/maste
 
 [LICENSES](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/0/LICENSES.md)
 
+- - -
+
 [Index](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/4/0/indexSymbols.md)
 of free functions
 
