@@ -14,3 +14,8 @@ Intended Uses
 
 - Browsing
 - Programatic Search (for symbols)
+
+See Also
+--------
+
+[symbolsPkgs](./symbolsPkgs.md)
