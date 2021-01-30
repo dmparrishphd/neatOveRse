@@ -32,6 +32,6 @@ All found files are `source`d in the order found, and `source`d in the newly cre
 Intent
 ------
 
-[4/0/build.env](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/4/0/build.env.R)
+[4/0/build.env](../../4/0/build.env.R)
 supersedes 
-[2/0/build.env](https://github.com/dmparrishphd/neatOveRse/blob/master/Files/2/0/build.env.R)
+[2/0/build.env](../../2/0/build.env.R)
