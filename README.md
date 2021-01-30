@@ -23,7 +23,8 @@ Installing
 or
 [Open Packages](./Files/2/0/INSTALL.OPEN.md)
 
-[Issues](./issues) previously mentioned in this README have been moved to the Issues tracker.
+Issues previously mentioned in this README have been moved to the
+[Issues tracker](https://github.com/dmparrishphd/neatOveRse/issues).
 
 [List](./Files/2/0/listOpenPkg.md)
 of Open Packages
