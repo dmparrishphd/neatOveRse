@@ -28,7 +28,29 @@ An omnidirectional diff for matrices.
 Other Topics
 ------------
 
+### Bitwise Operations
+
+[bitMask]
+(../../Files/6/0/bitMask.R)
+Create a bit mask.
+
+[bitwShiftL.1]
+(../../Files/6/0/bitwShiftL.PD.1.R)
+Left shift one bit.
+
+[bitwShiftL1.]
+(../../Files/6/0/bitwShiftL1.PD.R)
+Left shift `1L`.
+
+[bitwShiftR.1]
+(../../Files/6/0/bitwShiftR.PD.1.R)
+Right shift one bit.
+
 ### Functional Programming
+
+[00-six.R](../../2/0/00-six.R)
+_install, load, and attach a family of functional programming tools._
+Intended as an example.
 
 argument-order, argswap, positional arguments:
 [argswap 0.0-0](../../../Pkgs/4/0)
@@ -41,7 +63,9 @@ curry, currying:
 [neatoLcurry 0.0-1](../../../Pkgs/1/0);
 [neatoLcurrySBOP 0.0-0](../../../Pkgs/2/0)
 
+[`%<=2%`](../../3/0/PC.LT.EQ.2.PC.R)
 [`%2=>%`](../../4/0/PC.2.EQ.GT.PC.R)
+[as pkg.](../../../Pkgs/1/1/0)
 curry the second argument of a function
 
 function composition:
@@ -49,7 +73,6 @@ function composition:
 
 logical complement, inverse:
 [neatoUn 0.0-0](../../../Pkgs/5/0)
-
 
 ### Data Structures
 
@@ -59,8 +82,13 @@ logical complement, inverse:
 [`%=:%`](../../4/0/PC.EQ.CO.PC.R)
 _assign name to tail element_
 
-Environments
-------------
+[`names[<-`](../../Files/5/0/names.LB.LT.HY.R)
+element-wise renaming.
 
-[build.env](../../4/0/build.env.md)
+### Environments
 
+build.env
+[R](../../2/0/build.env.R)
+[doc](../../4/0/build.env.md)
+
+[build.env.from.files](../../3/0/build.env.R)
