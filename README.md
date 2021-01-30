@@ -24,13 +24,13 @@ repeated for easy browsing.
 Indices
 -------
 
-Symbols, tables of
-\[[Files](./Files/6/0/symbolsFiles.md)\]
-\[[Pkgs](./Files/6/0/symbolsPkgs.md)\]
-
 Free Functions,
 [index of](./Files/4/0/indexSymbols.md)
 
 Open Packages, 
 [index of](./Files/2/0/indexOpenPkgs.md)
 [list of](./Files/2/0/listOpenPkg.md)
+
+Symbols, tables of
+\[[Files](./Files/6/0/symbolsFiles.md)\]
+\[[Pkgs](./Files/6/0/symbolsPkgs.md)\]
