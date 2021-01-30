@@ -1,0 +1,2 @@
+About symbolsPkgs.dat
+=====================
