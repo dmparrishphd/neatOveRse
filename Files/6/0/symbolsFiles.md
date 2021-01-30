@@ -15,7 +15,7 @@ Coverage
 ""--"6"
 
 [symbolsFiles.dat](./symbolsFiles.dat)
-should represent all symbols defined under under nodes [""](../../Files/0) through ["6"](../../Files/6/0)
+should represent all symbols defined under under nodes [""](../../0) through ["6"](../../6/0)
 _Not all nodes contain R files._
 _And not all R files define symbols._
 
