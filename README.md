@@ -27,8 +27,8 @@ Indices
 Free Functions,
 [index of](./Files/4/0/indexSymbols.md)
 
-Open Packages, 
-[index of](./Files/2/0/indexOpenPkgs.md)
+Open Packages;
+[index of](./Files/2/0/indexOpenPkgs.md),
 [list of](./Files/2/0/listOpenPkg.md)
 
 Symbols, tables of
