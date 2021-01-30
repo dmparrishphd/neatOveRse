@@ -1,0 +1,22 @@
+# comment.char="#"
+# THIS FILE SUBJECT TO APPEND-ONLY MODIFICATION.
+# SEE ALSO ./Files/6/0/symbolsFiles.md
+Files/1/neatoFFFF.80.compose.SBOP.R `%O%` `%:O%`
+Files/0/neatoFFFF.80.curry.sbop.R `%<=%` `%=>%` `%v%` `%^%`
+Files/0/neatoFFFF.fun.prog.A.R argswap un
+Files/0/neatoFFFF.pipe.sbop.R `%|%` `%:|%` `%||%` `%:||%`
+Files/2/0/00-six.R installLoadAndAttach
+Files/2/0/build.env.R build.env
+Files/3/0/build.env.from.files.R build.env.from.files
+Files/3/0/PC.LT.EQ.2.PC.R `%<=2%`
+Files/4/0/build.env.R build.env
+Files/4/0/PC.2.EQ.GT.PC.R `%2=>%`
+Files/4/0/PC.CM.PC.R `%,%`
+Files/4/0/PC.EQ.CO.PC.R `%=:%`
+Files/5/0/bounding.box.xy.R bounding.box.xy
+Files/5/0/maxdiff.m.R maxdiff.m
+Files/5/0/names.LB.LT.HY.R `names[<-`
+Files/6/0/bitMask.R bitMask
+Files/6/0/bitwShiftL.PD.1.R bitwShiftL.1
+Files/6/0/bitwShiftL1.PD.R bitwShiftL1.
+Files/6/0/bitwShiftR.PD.1.R bitwShiftR.1
