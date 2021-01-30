@@ -1,0 +1,13 @@
+# comment.char="#"
+# THIS FILE SUBJECT TO APPEND-ONLY MODIFICATION.
+# SEE ALSO ./Files/6/0/symbolsPkgs.md
+Pkgs/0/R/neatoFFFF.curry.R curry
+Pkgs/1/0/R/lcurry.R lcurry
+Pkgs/1/1/0/R/neatoLcurry2.sbop.R `%<=2%` `%2=>%`
+Pkgs/1/2/0/R/dbf.R DBF.PROTO
+Pkgs/1/3/0/R/dbf.R DBF.PROTO
+Pkgs/2/0/R/neatoLcurry.sbop.R `%<=%` `%=>%`
+Pkgs/3/0/R/neatoPipe.sbop.R `%|%` `%:|%` `%||%` `%:||%`
+Pkgs/4/0/R/neatoArgswap.R argswap
+Pkgs/5/0/R/neatoUn.R un
+Pkgs/6/0/R/neatoCompose.SBOP.R `%O%` `%:O%`
