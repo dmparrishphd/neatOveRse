@@ -34,3 +34,5 @@ Open Packages,
 Symbols, tables of
 \[[Files](./Files/6/0/symbolsFiles.md)\]
 \[[Pkgs](./Files/6/0/symbolsPkgs.md)\]
+
+[Topical Index](./Files/7/0/topics.md)
