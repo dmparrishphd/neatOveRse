@@ -15,7 +15,7 @@ Coverage
 ""--"13"
 
 [symbolsPkgs.dat](./symbolsPkgs.dat)
-should represent all symbols defined under under nodes [""](../../../Pkgs/0) through ["13"](../../../Pkgs/6/0)
+should represent all symbols defined under under nodes [""](../../../Pkgs/0) through ["13"](../../../Pkgs/1/3/0)
 _Not all nodes contain R files._
 _And not all R files define symbols._
 
