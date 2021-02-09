@@ -11,3 +11,4 @@ Pkgs/3/0/R/neatoPipe.sbop.R `%|%` `%:|%` `%||%` `%:||%`
 Pkgs/4/0/R/neatoArgswap.R argswap
 Pkgs/5/0/R/neatoUn.R un
 Pkgs/6/0/R/neatoCompose.SBOP.R `%O%` `%:O%`
+#UPDATED 2021-01-29
