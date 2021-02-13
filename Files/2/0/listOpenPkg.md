@@ -24,8 +24,6 @@ Defines two special binary operators that accomplish currying of the second argu
 [12](../../../Pkgs/1/2/0)
 dbf.
 **superseded** by \[[13](../../../Pkgs/1/3/0)\].
-_Load (parts of) dbf Files.
-Defines an object that can be used to load dbf metadata and records._
 
 [13](../../../Pkgs/1/3/0)
 dbf.
