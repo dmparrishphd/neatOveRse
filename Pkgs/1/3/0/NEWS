@@ -1,0 +1,16 @@
+THIS FILE SUBJECT TO MODIFICATION VIA PREPENDING ADDITIONAL NEWS ITEMS TO THE
+LIST BELOW.
+
+2020-03-03  D. Michael Parrish  <neatoverse@yahoo.com>
+
+        There are different versions of dbf. I believe this
+        package handles Level V. See also
+        
+                https://en.wikipedia.org/wiki/.dbf
+        
+        The package has been used successfully on the kind of DBF
+        produced by ArcMap 10.4 in conjunction with shapefiles.        
+        
+2020-03-03  D. Michael Parrish  <neatoverse@yahoo.com>
+
+        Created NEWS file.
