@@ -16,9 +16,6 @@ whichAdjacent <- function ( mi ) {
 	j <- as.vector ( col ( ADJ ) )
 	ij <- vapply ( as.data.frame ( optional = TRUE , rbind ( i , j ) ) , sort , integer(2) )
 	rownames ( ij ) <- c ( "i" , "j" )
-	DF <- data.frame ( flag = as.vector ( ADJ ), t ( ij ) )
-	DF <- DF [ DF $ flag , ]
-	rownames ( DF ) <- NULL
-	as.matrix ( DF [ -1 ] [ ! duplicated ( DF [ -1 ] ) , ] ) }
-
+	M <- t ( ij ) [ as.vector ( ADJ ) , ]
+	M [ ! duplicated ( M ) , ] }
 
