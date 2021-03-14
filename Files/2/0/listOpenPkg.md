@@ -1,6 +1,6 @@
 # List of Open Packages
 
-"0"
+""
 [neatoCurry](../../../Pkgs/0)
 _legacy code. Suggestion: use_ ["1" neatoLcurry](../../../Pkgs/1/0) _instead._
 
@@ -21,7 +21,7 @@ _"pipe" output of one function to input of another._
 _change the order of the first two function arguments._
 
 "5"
-[neatoUn](../....//Pkgs/5/0)
+[neatoUn](../../..//Pkgs/5/0)
 _create logical inverse functions._
 
 "6"
