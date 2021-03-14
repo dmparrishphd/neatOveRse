@@ -48,4 +48,4 @@ Defines an object that can be used to load dbf metadata and records._
 
 "14"
 [topoSortNaive](../../../Pkgs/1/4/0)
-_Topological Sorting---a Naive Approach_
+_[Topological Sorting](https://en.wikipedia.org/wiki/Topological_sorting)---a Naive Approach_
