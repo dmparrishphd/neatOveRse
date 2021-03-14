@@ -1,6 +1,5 @@
-topoSortNaive <- function ( X ) {
-cat("topoSortNaive (1).\n")
+topoSortNaive <- function ( X , pretty = FALSE ) {
 	y <- X %|% .new
 	y %|% .init
 	while ( ! y %|% .done ) y %|% .step
-    y %|% .pretty }
+    if ( pretty ) y %|% .pretty else y $ Table $ ORDER }
