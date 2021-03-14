@@ -1,0 +1,18 @@
+# comment.char = #
+# READ BY $(PROTOPACKAGE_ROOT)/R/_ATTACH.R
+# FILENAME# SYMBOL
+#PC.PI.PC.R# `%|%`
+#PC.O.PC.R# `%O%`
+#PC.LT.EQ.PC.R# `%<=%`
+#PD.argswap.R# .argswap
+#PC.LT.EQ.2.PC.R# `%<=2%`
+PD.first.R# .first
+PD.second.R# .second
+PD.targets.R# .targets
+PD.sources.R# .sources
+PD.n.R# .n
+PD.new.R# .new
+PD.init.R# .init
+PD.step.R# .step
+PD.pretty.R# .pretty
+PD.done.R# .done

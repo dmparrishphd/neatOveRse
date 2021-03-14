@@ -1,0 +1,7 @@
+This collection of files is a protopackage. It is designed to
+be integrated into an R session via `source` rather than
+`library`.
+
+To install this protopackage, copy the files to a directory
+dedicated to this protopackage. Usage of `install.packages`
+is not part of the design.

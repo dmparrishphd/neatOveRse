@@ -1,0 +1,9 @@
+# comment.char = #
+# READ BY $(PROTOPACKAGE_ROOT)/R/_ATTACH.R
+# FILENAME# SYMBOL
+Pkgs/1/0/R/lcurry.R
+Pkgs/2/0/R/neatoLcurry.sbop.R
+Pkgs/3/0/R/neatoPipe.sbop.R
+Pkgs/4/0/R/neatoArgswap.R
+Pkgs/6/0/R/neatoCompose.SBOP.R
+Pkgs/1/1/0/R/neatoLcurry2.sbop.R

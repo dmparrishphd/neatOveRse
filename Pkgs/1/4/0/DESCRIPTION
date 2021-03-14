@@ -1,0 +1,15 @@
+Package: topoSortNaive
+Type: Package
+Title: Topological Sorting---a Naive Approach
+Version: 0.0-0
+Date: 2021-03-13
+Author: D. Michael Parrish [aut]
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: sorts a collection of objects according to their
+    dependencies or prerequisites. The time complexity is
+    probably n-squared. See also
+    https://en.wikipedia.org/wiki/Topological_sorting
+    https://en.wikipedia.org/wiki/Directed_graph
+    https://en.wikipedia.org/wiki/Make_(software)#Rules
+License: GPL-2
+Encoding: UTF-8

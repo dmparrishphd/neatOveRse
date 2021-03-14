@@ -1,0 +1,45 @@
+README
+
+Metadata for Directory
+
+Description
+
+        The topoSortNaive R package.
+
+        See also ./DESCRIPTION
+
+Subdirectories
+
+        ./
+
+                DESCRIPTION file compatible with R packages
+
+                INSTALL file describes how to make the package
+                content availabe for use in R.
+
+                README is the present file.
+
+                README_TOO file describes how to attach the
+                package to the R search path.
+
+        inst/extdata/
+
+                .dat files describe which R files to load when,
+                and which R files to import from neatOveRse.
+
+        inst/extdata/R
+
+                R source code native to this package.
+
+        R/
+
+                R Source Code
+
+                A single file, which refers to files under
+                inst/extdata
+
+        demo/
+
+                The example.R file should produce output if the
+                package has been attached successfully.
+

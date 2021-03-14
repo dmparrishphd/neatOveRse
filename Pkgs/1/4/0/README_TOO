@@ -1,0 +1,36 @@
+This collection of files is a protopackage (see also ./INSTALL).
+
+The _ATTACH.R file in the R subdirectory contains code to load
+and attach this proto package. To use, Replace
+
+    path
+
+(the letters _within_ the double quotes) in the SNIPPET below
+with the path to the install directory (see ./INSTALL) do _not_
+include a trailing solidus or slash (/) in the replacement text.
+
+Similarly, replace
+
+    neatoverse
+
+with the path to the neatOveRse mirror, which is a copy of the
+neatOveRse repository (https://github.com/dmparrishphd/neatOveRse).
+(Not all neatOveRse files are needed. See
+inst/extdata/_IMPORTS_NEATOVERSE.dat for the list of imported
+files.)
+
+    # SNIPPET:
+    DIR <- "path"
+    NEATOVERSE <- "neatoverse"
+    FILENAME <- paste0 ( DIR , "/R/_ATTACH.R" )
+    source ( FILENAME ) [[ 1 ]] ( DIR , neatoverse = NEATOVERSE )
+
+For example, if this package is stored at "~/DIRECTORY" and the
+NeatOveRse mirror is at "~/Mirrors/GitHub/dmparrishphd/neatOveRse"
+the RESULTANT SNIPPET would be
+
+    # RESULTANT SNIPPET:
+    DIR <- "~/DIRECTORY"
+    NEATOVERSE <- "~/Mirrors/GitHub/dmparrishphd/neatOveRse"
+    FILENAME <- paste0 ( DIR , "/R/_ATTACH.R" )
+    source ( FILENAME ) [[ 1 ]] ( DIR , neatoverse = NEATOVERSE )

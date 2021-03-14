@@ -1,0 +1,4 @@
+# comment.char = #
+# READ BY $(PROTOPACKAGE_ROOT)/R/_ATTACH.R
+# FILENAME# SYMBOL
+topoSortNaive.R# topoSortNaive
