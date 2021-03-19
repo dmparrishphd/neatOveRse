@@ -3,7 +3,7 @@ About symbolsFiles.dat
 
 [symbolsFiles.dat](./symbolsFiles.dat)
 is a look-up table of symbols defined in R code under the
-[Files](../../Files)
+[Files](../..)
 file tree.
 
 On each line, the first "word" specifies the file path to an R file and
