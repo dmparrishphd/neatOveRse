@@ -1,0 +1,22 @@
+2021-04-27  D. Michael Parrish  <neatoverse@yahoo.com>
+
+        proto.R deprecated. Use proto1.R instead.
+        
+        * The file proto1.R should be used instead of proto.R.
+        * `source`-ing proto1.R effectively loads a patched version of proto.R.
+        * proto1.R corrects for a sometimes false assumption in proto1.R:
+        that there are multiple shapes in a given shapefile. The correction
+        applies to the `.recordHeaders` function.
+        
+        type5.R deprecated. Use type5A.R instead.
+        
+        * The file type5A.R should be used instead of type5.R.
+        * `source`-ing type5A.R effectively loads a patched version of type5.R.
+        * The patched version uses proto1.R instead of proto.R.
+        * The `init` function is corrected to avoid the same false assumption
+        mentioned above for proto.R / proto1.R.
+        * New Feature: The .points function is modified to include column names
+        of "x" and "y" for the matrices of points loaded.
+        * The points (not to be confused with .points) function is corrected to
+        define the local `POINTS` variable before returning the same.
+        
