@@ -1,3 +1,11 @@
+2021-04-28  D. Michael Parrish  <neatoverse@yahoo.com>
+
+        type5A.R deprecated. Use type5B.R instead.
+
+        * The file type5B.R should be used instead of type5A.R.
+        * The type5B.R file corrects an error in the `.seekPoints` function:
+        The uncorrected code falsely assumed 8 bytes per point rather than 16.
+
 2021-04-27  D. Michael Parrish  <neatoverse@yahoo.com>
 
         proto.R deprecated. Use proto1.R instead.
