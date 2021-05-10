@@ -30,20 +30,24 @@ Other Topics
 
 ### Bitwise Operations
 
-[bitMask]
-(../../Files/6/0/bitMask.R)
+[bitMask](
+../../Files/6/0/bitMask.R
+)
 Create a bit mask.
 
-[bitwShiftL.1]
-(../../Files/6/0/bitwShiftL.PD.1.R)
+[bitwShiftL.1](
+../../Files/6/0/bitwShiftL.PD.1.R
+)
 Left shift one bit.
 
-[bitwShiftL1.]
-(../../Files/6/0/bitwShiftL1.PD.R)
+[bitwShiftL1.](
+../../Files/6/0/bitwShiftL1.PD.R
+)
 Left shift `1L`.
 
-[bitwShiftR.1]
-(../../Files/6/0/bitwShiftR.PD.1.R)
+[bitwShiftR.1](
+../../Files/6/0/bitwShiftR.PD.1.R
+)
 Right shift one bit.
 
 ### Functional Programming
